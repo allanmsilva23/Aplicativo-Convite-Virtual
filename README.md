@@ -36,27 +36,27 @@ Você pode testar este projeto de duas maneiras: diretamente no navegador via Sn
 **Pré-requisitos:** Node.js instalado e o aplicativo *Expo Go* no seu dispositivo móvel (opcional).
 
 1. Clone este repositório para a sua máquina:
-   ```
+```bash
    git clone [https://github.com/allanmsilva23/Aplicativo-Convite-Virtual.git](https://github.com/allanmsilva23/Aplicativo-Convite-Virtual.git)
 
 ```
 
 2. Acesse a pasta do projeto:
-```
+```bash
 cd Aplicativo-Convite-Virtual
 
 ```
 
 
 3. Instale as dependências:
-```
+```bash
 npm install
 
 ```
 
 
 4. Inicie o servidor do Expo:
-```
+```bash
 npx expo start
 
 ```
