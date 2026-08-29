@@ -42,7 +42,7 @@ Você pode testar este projeto de duas maneiras: diretamente no navegador via Sn
 ```
 
 2. Acesse a pasta do projeto:
-```bash
+```
 cd Aplicativo-Convite-Virtual
 
 ```
